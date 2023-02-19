@@ -1,4 +1,4 @@
-package itch
+package itchygo
 
 import (
 	"encoding/binary"
