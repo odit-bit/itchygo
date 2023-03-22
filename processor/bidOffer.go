@@ -6,7 +6,7 @@ import (
 	"io"
 	"log"
 
-	"github.com/odit-bit/ithcygo/itch"
+	"github.com/odit-bit/itchygo/itch"
 )
 
 type bidOffer struct {
